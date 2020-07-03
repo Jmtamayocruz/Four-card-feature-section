@@ -1,0 +1,139 @@
+body {
+  background-color: #fafafa;
+  background-color: hsl(0, 0%, 98%);
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  width: 1440px;
+}
+
+h3 {
+  color: #4c4e61;
+  color: hsl(234, 12%, 34%);
+}
+
+p {
+  color: #a3a5ae;
+  color: hsl(229, 6%, 66%);
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+
+.bottom-container {
+  margin: auto;
+}
+
+.card1 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  border-top: solid 4px #45d3d3;
+  border-top: solid 4px hsl(180, 62%, 55%);
+  box-shadow: 0 3px 8px #a3a5ae;
+  margin-right: 40px;
+  margin-left:157.5px;
+  padding: 40px;
+  padding-bottom: 120px;
+  padding-top: 20px;
+  position: relative;
+  top: 148.1125px;
+  width: 270px;
+}
+
+.card2 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  border-top: solid 4px #ea5353;
+  border-top: solid 4px hsl(0, 78%, 62%);
+  box-shadow: 0 3px 8px #a3a5ae;
+  margin: 0 40px 40px;
+  padding: 40px;
+  padding-bottom: 120px;
+  padding-top: 20px;
+  position: relative;
+  bottom: 262.425px;
+  left: 507.5px;
+  width: 270px;
+}
+
+.card3 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  border-top: solid 4px #fcaf4a;
+  border-top: solid 4px hsl(34, 97%, 64%);
+  box-shadow: 0 3px 8px #a3a5ae;
+  margin: 40px 40px 0;
+  padding: 40px;
+  padding-bottom: 120px;
+  padding-top: 20px;
+  position: relative;
+  left: 507.5px;
+  bottom: 262px;
+
+  width: 270px;
+}
+
+.card4 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  border-top: solid 4px #549ef2;
+  border-top: solid 4px hsl(212, 86%, 64%);
+  box-shadow: 0 3px 8px #a3a5ae;
+  margin-left: 40px;
+  padding: 40px;
+  padding-bottom: 120px;
+  padding-top: 20px;
+  position: relative;
+  bottom: 679px;
+  left: 900px;
+  width: 270px;
+}
+
+.h1-normal {
+  color: #4c4e61;
+  color: hsl(234, 12%, 34%);
+  font-weight: 200;
+  line-height: 0.5rem;
+  padding: 100px 0 0;
+}
+
+.h1-bold {
+  color: #4c4e61;
+  color: hsl(234, 12%, 34%);
+}
+
+.icon-calculator {
+  position: absolute;
+  left: 15.5rem;
+  bottom: 2rem;
+}
+
+.icon-karma {
+  position: absolute;
+  left: 15.5rem;
+  bottom: 2rem;
+}
+
+.icon-supervisor {
+  position: absolute;
+  left: 15.5rem;
+  bottom: 2rem;
+}
+
+.icon-tb {
+  position: absolute;
+  left: 15.5rem;
+  bottom: 2rem;
+}
+
+.top-container {
+  margin: auto;
+  width: 35%;
+  text-align: center;
+}
+
+.top-text {
+  color: #a3a5ae;
+  color: hsl(229, 6%, 66%);
+  font-size: 15px;
+  font-weight: 400;
+  margin-bottom: 75px;
+}
